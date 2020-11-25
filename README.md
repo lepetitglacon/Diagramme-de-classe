@@ -38,6 +38,10 @@
 
     ![](./Agrégation.png)
     
+- Composition (TODO)
+    
+    ![](./Composition.png)
+    
 - Héritage
 
     ![](./Héritage.png)
