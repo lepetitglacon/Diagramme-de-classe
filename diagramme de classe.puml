@@ -1,11 +1,7 @@
 @startuml
 class A {
- -attribut1 : type
- -attribut2 : type
- +attribut3 : type
-
- +méthode1() : typeReturn
- +méthode2() : typeReturn
- -méthode3() : typeReturn
 }
+class B{}
+
+A . B
 @enduml

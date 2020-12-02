@@ -42,6 +42,10 @@
     
     ![](./Composition.png)
     
+- Dépendance (TODO)
+    
+    ![](./Dependance.png)
+    
 - Héritage
 
     ![](./Héritage.png)
